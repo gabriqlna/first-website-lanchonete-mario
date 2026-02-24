@@ -1,0 +1,102 @@
+/*SEÇÃO DE CLASSES*/
+.container-fluid {
+  padding: 3% 15%;
+}
+.navbar-brand {
+  font-family: "Alfa Slab One", serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar {
+  padding-bottom: 4.5rem;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat", sans-serif;
+}
+/*title-imagem*/
+.title-img {
+  width: 85%;
+  transform: rotate(50deg);
+}
+/*SEÇÃO DE TAGS*/
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900px;
+}
+h3 {
+  font-family: "Montserrat-Bold", sans-serif;
+}
+h2 {
+  font-family: "Montserrat-Bold", serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+p {
+  color: #333333;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+/*SEÇÃO DE IDS*/
+#title {
+  background-color: #D32F2F;
+  color: #F8F9FA;
+}
+
+/*Section Features*/
+#features {
+  padding: 7% 15%;
+}
+.features-box {
+  text-align: center;
+  padding: 3%;
+}
+.icon {
+  margin-bottom: 1rem;
+  color: #D32F2F;
+  display: inline-block;
+  transition: all 0.4s ease-in-out;
+  cursor: pointer;
+}
+.icon:hover {
+  color:  #FFC107;
+  transform: scale(1.2) rotate(5deg);
+}
+/*Testemunhas section*/
+#testemunhas {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #FFF9E6;
+  color: #212529;
+}
+.testemunha-image {
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+#press {
+  background-color: #FFF9E6;
+  text-align: center;
+  /*padding-bottom: 3%;*/
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+/*Footer Copyright */
+#footer {
+  text-align: center;
+  background-color: #333333;
+  padding: 2%;
+}
+.copyright {
+  color: #fff;
+}
+/*Media query*/
