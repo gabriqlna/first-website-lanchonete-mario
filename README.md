@@ -23,7 +23,7 @@ O objetivo principal foi construir uma **Landing Page completa** que não apenas
 * **Tipografia:** Google Fonts (Alfa Slab One para títulos e Montserrat para leitura).
 
 ## 📸 Visual do Projeto
-*(Dica: Coloque aqui um print do seu site ou o link do seu GitHub Pages)*
+*https://gabriqlna.github.io/first-website-lanchonete-mario/*
 
 ---
 
